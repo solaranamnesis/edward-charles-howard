@@ -109,4 +109,46 @@ As two of the more perfect stones which I had obtained, as well as parts of some
 
 It remains for me to speak of a substance mentioned in the _Lithophylacium Bornianum_, Part 1. page 125, described thus: "Ferrum retractorium, granulis nitentibus, matrice virescenti immixtis, (_Ferrum virens_ Linn.) cujus fragmenta, ab unius ad vigenti usque librarum pondus, cortice nigro scoriaceo circumdata, ad Plann, prope Tabor, circuli Bechinensis Bohemiæ, passim reperiuntur."
 
+The iron thus described, is moreover made remarkable by a note,* which observes, that credulous people assert it to have fallen from heaven, during a thunder storm, on the 3rd of July, 1753.
+
+*) Quæ (fragmenta) 3 Julii, anni 1753, inter tonitrua, e cœlo pluisse creduliores quidam asserunt.
+
+The collection of Baron Born, it is well known, has a place in the cabinet of the Right Hon. Charles Greville, who, from the effect produced by comparing the histories and structure of the Italian and Yorkshire stones with the description of this iron, was induced to search the collection of Born, where he discovered the very substance asserted to have fallen on the 3rd of July, 1753. How far these four substances have resemblance to each other, it will soon appear not to be my province to anticipate.
+
+The President having done me the honour to submit his specimens of the Yorkshire and Italian stones to my examination, I became indebted to Mr. Greville and Mr. Williams for a similar distinction: and, being thus possessed of four substances, to all of which the same origin had been attributed, the necessity of describing them mineralogically did not fail to present itself. To execute this task, no one could be more eager, and certainly no one better qualified, than the Count de Bournon. He has very obligingly favoured me with the following descriptions.
+
+_Mineralogical Description of the various Stones said to have fallen upon the Earth._
+
+By the Count de Bournon, FRS.
+
+The stones I am about to describe, are not of any regular shape; and those which were found in an entire state, that is, those which had not been broken, either by their fall or otherwise, were entirely covered with a black crust, the thickness of which was very inconsiderable.
+
+The stones which fell at Benares, are those of which the mineralogical characters are the most striking: I shall therefore begin the following description with them; and shall afterwards make use of them, as objects of comparison, in describing the others.
+
+Stones from Benares.
+
+These stones, as well as the others described in this Paper, whatever may be their size, are covered over the whole extent of their surface, with a thin crust, of a deep black colour: they have not the smallest gloss; and their surface is sprinkled over with small asperities, which cause it to feel, in some measure, like shagreen, or fish skin.
+
+When these stones are broken, so as to shew their internal appearance, they are found to be of a grayish ash colour; and of a granulated texture, very similar to that of a coarse gritstone: they appear evidently to be composed of four different substances, which may be easily distinguished, by making use of a lens.
+
+One of these substances, which is in great abundance, appears in the form of small bodies, some of which are perfectly globular, others rather elongated or elliptical. They are of various sizes, from that of a small pin's head to that of a pea, or nearly so: some of them, however, but very few, are of a larger size. The colour of these small globules is gray, sometimes inclining very much to brown: and they are completely opaque. They may, with great ease, be broken in all directions: their fracture is conchoid, and shows a fine, smooth, compact grain, having a small degree of lustre, resembling in some measure that of enamel. Their hardness is such, that, being rubbed upon glass, they act upon it in a slight degree; this action is sufficient to take off its polish, but not to cut it: they give faint sparks, when struck with steel.
+
+Another of these substances, is a martial pyrites, of an indeterminate form: its colour is a reddish yellow, slightly inclining to the colour of nickel, or to that of artificial pyrites. The texture of this substance is granulated, and not very strongly connected: when powdered, it is of a black colour. This pyrites is not attractable by the magnet; and is irregularly distributed through the substance of the stone.
+
+The third of these substances consists in small particles of iron, in a perfectly metallic state, so that they may easily be flattened or extended, by means of a hammer. These particles give to the whole mass of the stone, the property of being attractable by the magnet; they are, however, in less proportion than those of pyrites just mentioned. When a piece of the stone was powdered, and the particles of iron separated from it, as accurately as possible, by means of a magnet, they appeared to compose about 2/100 of the whole weight of the stone.
+
+The three substances just described, are united together by means of a fourth, which is nearly of an earthy consistence. For this reason, it is easy to separate, with the point of a knife, or even with the nail, the little globular bodies above mentioned, or any other of the constituent parts of the stone we may wish to obtain. Indeed the stone itself may readily be broken, merely by the action of the fingers. The colour of this fourth substance, which serves as a kind of cement to unite the others, is a whitish gray.
+
+The black crust with which the surface of the stone is coated, although it is of no great thickness, emits bright sparks, when struck with steel: it may be broken by a stroke with a hammer; and seems to possess the same properties as the very attractable black oxide of iron. This crust is, however, like the substance of the stone, here and there mixed with small particles of iron in the metallic state: they may easily be made visible, by passing a file over the crust, as they then become evident, on account of their metallic lustre. This is more particularly the case with respect to the crust of those stones which remain to be mentioned, they being much more rich in iron than that I have just described; a circumstance I think it needless to repeat, in the following descriptions of them. The stone now treated of, does not, when breathed upon, emit an argillaceous smell: the same remark may be applied to all the others.
+
+The specific gravity of this stone is 3352.
+
+Stone from Yorkshire.
+
+This stone, the constituent parts of which are exactly the same as those of the stones from Benares, differs from them, however,
+
+First. In having a finer grain.
+
+Secondly. That the substance described as being in the form of small globular or elliptical bodies, is not so constantly in those forms, but is also found in particles of an irregular shape; a circumstance that is not met with in the other stones: these bodies are likewise, in general, of a smaller size.
+
 ...
