@@ -49,4 +49,20 @@ Mons. Barthold, Professeur à l'Ecole centrale du Haut-Rhin, gave I believe the 
 
 *) A very interesting detail of a meteor, and of stones fallen in July, 1790, was given by Professeur Baudin, in the _Magazin für das Neueste aus der Physik_, by Professor Voigt.
 
+"Le fond de la pierre est d'une couleur grise bleuâtre, parsemée de cristaux de pyrites, isolés, d'une cristalisation confuse, en quelques endroits écailleuses, ramassés, formant des nœuds et des petites veines, qui le parcourent en tout sens : la couleur des pyrites est dorée ; le poli leur donne un éclat d'acier, et, exposées à l'atmosphère, elles ternissent et brunissent. On distingue de plus, à l'œil nud, de la mine de fer grise, écailleuse, non sulfureuse, attirable à l'aimant, dissoluble dans les acides, peu oxidé, ou s'approchant beaucoup de l'état métallique."
+
+"La cassure est irrégulière, grenue, d'un grain un peu serré : dans l'intérieur on voit de très petites fentes. Elle ne fait pas feu au briquet ; sa contexture est si lâche qu'elle se laisse entamer au couteau. En la pilant, elle se réduit assez facilement en une poudre grise bleuâtre, d'une odeur terreuse. Quelquefois il se trouve des petits cristaux de mine de fer, qui résistent plus aux coups du pilon."
+
+The specific gravity of the piece in Professor Barthold's possession, was 3233, distilled water being taken at 1000.
+
+The analysis of Mons. Barthold, of which I shall also have occasion to speak hereafter, gave in the 100,
+
+Sulphur|2  
+Iron|20  
+Magnesia|14  
+Alumina|17  
+Lime|2  
+Silica|42  
+97.
+
 ...
