@@ -151,4 +151,52 @@ First. In having a finer grain.
 
 Secondly. That the substance described as being in the form of small globular or elliptical bodies, is not so constantly in those forms, but is also found in particles of an irregular shape; a circumstance that is not met with in the other stones: these bodies are likewise, in general, of a smaller size.
 
+Thirdly. The proportion of martial pyrites, which has precisely the same characters as that in the stones from Benares, is less; on the contrary, that of the iron in a metallic state, is much greater. The quantity I was able to separate by means of the magnet, appeared to me to compose about eight or nine parts, in one hundred, of the weight of the whole mass. I observed many pieces of this iron, of a pretty considerable size; one of them, taken from a portion of the stone I had powdered, in order to separate the iron, weighed several grains.
+
+The part of the stone which is in an earthy state, and which serves to connect the other parts together, has rather more consistence than that of the preceding stones; and its appearance does not differ much from that of decomposed felspar or kaolin. The stone itself, therefore, although by no means hard, is rather more difficult to break with the fingers.
+
+The specific gravity of this stone is 3508.
+
+Stone from Italy.
+
+This stone was in a perfectly entire state; consequently, its whole surface was covered over with the black crust peculiar to all stones of this kind. As the stone was of a very small size, it became necessary to sacrifice the whole of it to the investigation of its nature. Its grain was coarse, similar to that of the stones from Benares: in it might be perceived the same gray globular bodies, the same kind of martial pyrites, and the same particles of iron in the metallic state. The proportion of these last was much less than in the stone from Yorkshire; but rather greater than in the stones from Benares. The same kind of gray earthy substance served to connect the different parts together; and nothing more could be perceived, except a few globules, which consisted wholly of black oxide of iron, attractable by the magnet, and one single globule of another substance, which appeared to differ from all those we have already described. This last substance had a perfectly vitreous lustre, and was completely transparent: it was of a pale yellow colour, slightly inclining to green; and its hardness was rather inferior to that of calcareous spar. The quantity of it, however, was too small to be submitted to such an investigation as might have determined its nature. The black crust which covered the stone, was rather thinner than that of the stones already described; and seemed to have undergone a kind of contraction, which had produced in it a number of fissures or furrows, thereby tracing upon the surface the appearance of compartments, similar in some measure to what is observed in the stones called Septaria.
+
+The specific gravity of this stone was 3418.
+
+Stone from Bohemia.
+
+The internal structure of this stone is very similar to that of the stone from Yorkshire. Its grain is finer than that of the stones from Benares: in it may be observed the same gray substance, both in small globules and in particles of an irregular shape; also the same particles of metallic iron. The same kind of earthy substance likewise served to connect the other parts together.
+
+This stone, however, differs materially from the others.
+
+First. The particles of pyrites cannot be seen without a lens.
+
+Secondly. It contains a much larger quantity of iron in the metallic state; insomuch, that the proportion of that metal, separated from it by means of the magnet, amounted to about 25/100 of the weight of the whole.
+
+This stone has also (owing perhaps to its having remained a much longer time in the earth than the preceding ones, all of which were taken up nearly at the very instant of their fall,) another difference, _viz._ many of the particles of iron in a metallic state, have undergone an oxidizement at their surface; a circumstance that has produced a great number of spots, of a yellowish brown colour, and very near to each other, over a part of its internal substance. This oxidizement, by adding to the bulk, and to the force of action, of the part we have described as serving by way of cement to the other constituent parts of the stone, has occasioned a greater degree of adhesion between these parts, and has rendered the substance of the stone more compact.
+
+The great quantity of iron in a metallic state which this stone contains, added to its greater compactness, makes it capable of receiving a slight degree of polish; whereas it is impossible to give any polish to the others. When polished, the iron becomes very evident, in the polished part; appearing in the form of small specks, almost close to each other, which have the colour and lustre peculiar to that metal: these specks are, in general, nearly of an equal size.
+
+The black crust of this stone is similar to that of the others.
+
+The specific gravity of the stone is 4281.
+
+It is easy to perceive, from the foregoing description, that these stones, although they have not the smallest analogy with any of the mineral substances already known, either of a volcanic or any other nature, have a very peculiar and striking analogy with each other. This circumstance renders them truly worthy to engage the attention of philosophers; and naturally excites a desire of knowing to what causes they owe their existence.
+
+---
+
+I proceed to consider the assistance to be derived from chemistry, in distinguishing these stones from all other known substances, and in establishing the assertion, that they have fallen on the earth.
+
+The analysis made by the French Academicians, of the stone presented to them by the Abbé Bachelay, was, in part, conducted by the ever to be deplored Lavoisier; but it was performed before that celebrated author had enriched chemistry with his last discoveries, and before he had given birth to the system under which it flourishes. The result of this analysis might well induce the conclusion, that the subject of it was common pyritical matter. It was unfortunately made of an aggregate portion of the stone, and not of each distinct substance, irregularly disseminated through it. The proportions obtained were, consequently, as accidental as the arrangement of every substance in the mass.
+
+The analysis of M. Barthold, of the stone of Ensisheim, is subject to the same objections: but, after having the advantage of the foregoing descriptions, the researches which follow cannot be supposed altogether liable to a similar fatality.
+
+Examination of the Stone from Benares.
+
+This stone, as the Count de Bournon has already remarked, has the most distinguished characters. Indeed it is the only one of the four, sufficiently perfect (if I be allowed that expression) to be subjected to any thing approaching to a regular analysis.
+
+The crust, or external black covering, is the first substance to which the attention is naturally directed. When a portion of this crust had been detached with a knife, or a file, and finely pulverized, I separated the particles attractable by a magnet; and digested the unattractable portion with nitric acid, which was presently decomposed; but, owing to a strong adherence of some of the interior and earthy parts of the stone, it did not disentangle the coating or metalline part without some difficulty. The acid being sufficiently neutralized, the solution was passed through a filtre, and saturated to excess with ammonia. An abundant precipitate of oxide of iron was produced; and, when this oxide was separated, I observed the saline liquor to have a greenish colour. I evaporated it to dryness; and redissolved the dry salt in distilled water. No precipitate was formed during the evaporation, nor was the colour of the solution entirely destroyed. It appeared to me like a triple salt, described by Mr. Hermstadt* as an ammoniacal nitrate of nickel. By examination with prussiate of ammonia, it yielded a whitish precipitate, inclining to a violet colour; and, by various properties, I was soon confirmed in the opinion, that nickel was present. Since I shall have occasion more than once to treat of the triple compound, and since it has been only mentioned by Mr. Hermstadt, it is necessary now to detail some of its distinctive characters. The same chemist informs us, that the three mineral acids, with ammonia, enter into similar combinations with nickel; and I have observed, that oxide of nickel can be dissolved by nitrate and muriate of ammonia. The muriate seems to take up the largest quantity. The colour of this salt is by no means uniform: it is sometimes grass green, violet, rose colour, inclining to purple, and I have seen it almost colourless. It seems to be purple, and to incline to rose colour and violet, when all the oxide of nickel is not united to both acid and alkali, but, from the deficiency of salt, is held in solution by an
+
+*) _Annales de Chimie_. Tom. 22. p. 108.
+
 ...
