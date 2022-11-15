@@ -231,9 +231,9 @@ I shall next examine the globular bodies, also irregularly dispersed throughout 
 Under all circumstances, I am induced to state the proportions of constituent parts thus:
 
 Silica|50  
-Magnesia|15
-Oxide of iron|34
-Oxide of nickel|2 1/2
+Magnesia|15  
+Oxide of iron|34  
+Oxide of nickel|2 1/2  
 |101 1/2
 
 The excess of weight, instead of the usual loss, is owing to the difference of oxidizement of the iron, in the stone and in the result of the analysis; which will be found to be the case in all analyses of these substances; indeed it is always necessary to reduce the oxide to the red state, as being the only one to be depended upon. To avoid future repetition, I shall also observe, first, that by preliminary experiments, I could not detect any other substance than those mentioned. Secondly, that the earth obtained as alumina, appeared to me to be mostly, if not entirely, siliceous; because, after it had been ignited, and again treated with potash and muriatic acid, I found it was very nearly all precipitated by evaporation. Thirdly, I examined, and judged of, the silica collected from the oxide of iron, in the same way. Fourthly, the weight of the magnesia is given, not immediately, as obtained by evaporation, but after a subsequent solution in an acid, and precipitation by potash. And, fifthly, the proportions are taken from the mean of two analyses.
