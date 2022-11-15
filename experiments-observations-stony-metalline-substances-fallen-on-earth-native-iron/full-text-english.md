@@ -226,4 +226,56 @@ The other shining particles immediately seen, when the internal structure of the
 
 This mode of treatment was not allowed me in the examination of the coating of the stone, because it was impossible to know in what state of oxidizement the iron existed. But, as the particles disseminated through the whole mass, are clearly metallic, a very tolerable idea of the quantities of nickel contained in them will be obtained, by noting the quantity of oxide of iron separated, as above described. 25 grains of these metallic particles were therefore heated with a quantity of nitric acid, much more than sufficient to dissolve the whole. Some earthy matter, which, as in a former case, was not separable by mechanical means, remained after a complete solution of the metal had been effected. This earthy matter, after being ignited, weighed two grains. The real matter of the present examination, was therefore reduced to 23 grains, and was in complete solution. I added ammonia to a very sensible excess. The oxide of iron was thereby precipitated, and, being collected and ignited, it weighed 24 grains; whereas, according to my experiments, 33 1/2 grains should have been produced from the solution, had it contained nothing but iron. I examined the saline liquor, when free from ferruginous particles, and discovered it to be the triple salt of nickel. Hence, allowing for loss, the quantity of nickel may be estimated, by calculating the quantity of iron contained in 24 grains of oxide. Thus, if 145 grains of oxide contain 100 of iron, about 16 1/2 are contained in 24 of oxide. This would suppose the 23 grains of alloy to consist of 16 1/2 iron and 6 1/2 nickel; which, if the usual loss be added to the 16 1/2 grains of iron, and deducted from the nickel, may not be very remote from the truth.
 
+I shall next examine the globular bodies, also irregularly dispersed throughout the stone. A number of them were reduced to fine powder; but nothing metallic could be separated by the magnet. As a preliminary experiment, I sought for pyrites, by digestion with muriatic acid; but no hepatic smell was in the least perceivable, nor was white carbonate of lead at all altered by being held over the mixture. I therefore conclude these globular bodies do not envelope either iron or pyrites. By way of analysis, I treated 100 grains with potash, in a silver crucible; and, after the usual application of a red heat, separated as much silica as possible, by muriatic acid and evaporation. The silica being collected on a filtre, carbonate of potash was added to the filtrated liquor; by which, a precipitate, almost wholly ferruginous, was produced. This precipitate was collected in the common way; then boiled with potash, to extract alumina; and, by supersaturating the alkaline liquor with muriatic acid, and precipitating by carbonate of ammonia, an earth was gathered, which I afterwards found to be partly, if not entirely, siliceous. After redissolving, in muriatic acid, the portion of the ferruginous matter rejected by the potash, I precipitated by ammonia, what I took to be entirely oxide of iron; but, after igniting it, and again attempting to redissolve the whole in muriatic acid, more silica was left. The non-existence of lime was proved, by the addition of carbonate of ammonia, immediately after the same alkali, pure, had thrown down what I took wholly for oxide of iron. I had now obtained every thing in the subject of my analysis, except magnesia and nickel. The former, and a trace of the latter, were held by carbonic acid in the liquor, from which the ferruginous precipitate was, in the first instance, thrown down by carbonate of potash; and the latter was found in the last named muriate of ammonia. I disengaged the magnesia, by the assistance of potash, and by evaporating to dryness. The oxide of nickel was precipitated by hydrogenized sulphuret of ammonia.
+
+Under all circumstances, I am induced to state the proportions of constituent parts thus:
+
+Silica|50  
+Magnesia|15
+Oxide of iron|34
+Oxide of nickel|2 1/2
+|101 1/2
+
+The excess of weight, instead of the usual loss, is owing to the difference of oxidizement of the iron, in the stone and in the result of the analysis; which will be found to be the case in all analyses of these substances; indeed it is always necessary to reduce the oxide to the red state, as being the only one to be depended upon. To avoid future repetition, I shall also observe, first, that by preliminary experiments, I could not detect any other substance than those mentioned. Secondly, that the earth obtained as alumina, appeared to me to be mostly, if not entirely, siliceous; because, after it had been ignited, and again treated with potash and muriatic acid, I found it was very nearly all precipitated by evaporation. Thirdly, I examined, and judged of, the silica collected from the oxide of iron, in the same way. Fourthly, the weight of the magnesia is given, not immediately, as obtained by evaporation, but after a subsequent solution in an acid, and precipitation by potash. And, fifthly, the proportions are taken from the mean of two analyses.
+
+Nothing remains to be examined, of the stone from Benares, except the earthy matter, forming a cement or matrix for the substances already examined. 100 grains of this matter were, by mechanical means, separated as perfectly as possible, from the pyrites, iron, and globular bodies, and analysed as above. The mean result of two analyses gave,
+
+Silica|48  
+Magnesia|18  
+Oxide of iron|34  
+Oxide of nickel|2 1/2  
+|102 1/2.
+
+Examination of the Stone from Sienna.
+
+The external coating of this stone appeared to have the same characters as that of the stone from Benares.
+
+The pyrites, although certainly present, were not crystallized in such groups as in the preceding stone; nor could they be separated by mechanical means.
+
+The attractable metal was easily separated by the magnet; but 8 1/2 grains only were collected. I treated them with nitric acid and ammonia, as in a preceding case. Nearly one grain of earthy matter was insoluble; the weight was therefore reduced to rather less than 8 grains. The oxide of iron, precipitated by ammonia, weighed 8 grains; and the saline liquor gave abundant indications of nickel. As 8 grains of this oxide of iron contain nearly 6 of metal, the quantity of nickel, in the bare 8 grains, may be estimated between 1 and 2 grains. Some globular bodies were extracted, but too few to analyze.
+
+Since the pyrites could not be separated, I collected 150 grains of the stone, freed from iron by the magnet, and as exempt as possible from globular bodies. These 150 grains, I first digested with muriatic acid, that the pyrites might be decomposed, and every thing taken up which could be dissolved by that menstruum. A very decided disengagement of sulphureted hydrogen gas was occasioned. When the acid could produce no further action, I collected the undissolved matter on a filtre, and boiled it with the most concentrate nitric acid, in hopes of being able to convert the sulphur, previously liberated, into sulphuric acid; but my endeavours were fruitless; for, upon the addition of nitrate of barytes to the nitric solution, rendered previously transparent, a very insignificant quantity of sulphate of barytes was obtained. The surplus of barytic nitrate was removed by sulphate of potash. I next completely edulcorated the mass which remained insoluble, after the action of the muriatic and nitric acids; and, adding the water of edulcoration to the muriatic and nitric liquors, evaporated the whole for silica. I then submitted the mass, undissolved by the acids and the water, to the treatment with potash, muriatic acid, and evaporation, which was, in the first instance, applied to the stone from Benares. The first precipitation was, as in that analysis, also effected with carbonate of potash; but, instead of endeavouring immediately to extract alumina, I ignited the precipitate, that the alumina or silica remaining might be rendered insoluble. After the ignition, I separated the oxide of iron with very concentrate muriatic acid; and the earths, which were left perfectly white, I heated with potash, until they were again capable of being taken up by the same acid. The solution so made, was slowly evaporated; and, as very nearly every thing was deposited during the evaporation, I conclude all was silica. The proportions resulting from this single analysis, without the weight of sulphur contained in the pyrites irregularly disseminated through the whole, were,
+
+Silica|70  
+Magnesia|34  
+Oxide of iron|52  
+Oxide of nickel|3  
+|159.
+
+Examination of the Stone from Yorkshire.
+
+The mechanical separation of the substances in this stone being as difficult as in the preceding case, I was necessarily satisfied with submitting it to the same treatment. I collected, however, 34 grains of malleable particles; which, by the process already more than once mentioned, left 4 grains of earthy matter; and, by yielding 37 1/2 of oxide of iron, indicated about 4 grains of nickel.
+
+150 grains of the earthy part of the stone were, by analysis, resolved into,
+
+Silica|75  
+Magnesia|37  
+Oxide of iron|48  
+Oxide of nickel|2  
+|162.
+
+Examination of the Stone from Bohemia.
+
+The probability of never being able to obtain another specimen of the very remarkable fragment of this substance, did
+
 ...
