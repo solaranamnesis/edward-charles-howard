@@ -321,4 +321,78 @@ I feel the greater satisfaction in doing this, as the noble collection of Mr. Gr
 
 One of these pieces has a cellular and ramified texture, analogous to that of some very porous and light volcanic scoria: this is the usual texture of the specimens of this kind of iron, which are preserved in the various mineralogical collections in Europe. When it is attentively examined, there may be perceived in it, not only empty cells, but also impressions or cavities, of greater or less depth, and sometimes perfectly round, which appear evidently to be the result of the compression of hard bodies, which were situated there, and which, when they came away, left the surface of these cavities quite smooth, and having the lustre of polished metal. Here and there, in some of these cavities, there remains a transparent substance, of a yellowish green colour, of which I shall treat more particularly, when I come to the description of the second of the specimens above mentioned. It is very clear, that the cavities here spoken of owe their existence to this transparent substance; and that the polish of the cavities arises merely from the compression of the said substance, and is the natural consequence of its surface having been in perfect contact with that of the iron.
 
-...
+This iron is very malleable: it may be easily cut with a knife; and may be as easily flattened or extended by means of a hammer. Its specific gravity is 6487; which, however, is very much under that of iron which has been merely melted, and has not been forged. The specific gravity of the native iron of Bohemia, which is nearly as malleable and as easy to be cut, is still less: I found it not to exceed 6146. This low degree of gravity, appears to be owing partly to the oxidizement of the surface of the iron, and partly to there being, in the interior part of its substance, a number of small cavities, which are often rendered visible by fracture, and which have their surfaces also oxidized. The fracture of this iron, presents the same shining and silvery white colour as the common cast iron, known by the name of white cast iron; but its grain is much smoother and finer: it is also much more malleable when cold. Bergman says that this iron is brittle, when heated to a red heat. I have frequently tried it in that state, and have constantly found it to be malleable. The same remark may be applied to the native iron from South America; and also to that from Senegal.
+
+The second of the two specimens mentioned above, and which weighs several pounds, presents an aspect that differs, in some respects, from that of the preceding specimen. The most considerable part of it forms a solid compact mass, in which there is not to be perceived the smallest appearance of pores or cavities; but there arises upon its surface, a kind of ramified or cellular part, similar, in every respect, to the specimen already described, and every where completely connected with the substance of the mass itself.
+
+If the compact part of this piece is examined with attention, it will be perceived, that it is not entirely composed of iron in the metallic state, but that it is mixed with nearly an equal quantity of the transparent substance of a yellowish green colour, (sometimes also of a greenish yellow,) already spoken of in the description of the other specimen. This substance is mixed with the iron, in such a manner, that if the whole of the former could be removed, the remaining part would consist merely of iron in the metallic state, and would present the same cellular appearance as the preceding specimen, and the ramified or cellular part of the specimen now described.
+
+This stony part, separated from the iron, appears in the form of small nodules, generally of an irregular shape, but sometimes nearly globular: they have a perfectly smooth and shining surface, so as very often to present the appearance of small balls of glass; a circumstance that has led many persons to suppose them the result of a real vitrification. Some of these nodules have several irregular facets, produced by the compression of the iron in which they were inclosed; but I have never observed in them, any appearances that could lead me to suspect they had the slightest tendency whatever to assume a determined crystalline form.
+
+This substance is always more or less transparent. It is sufficiently hard to cut glass; but has no effect upon quartz. It is very brittle: its fracture is usually conchoid; but I could not perceive that it broke in any particular direction, in such a way that I could consider the fracture as a natural one. It becomes electric by friction. Its specific gravity is from 3263 to 3300. It is very refractory: I kept it, for some time, exposed to a degree of heat sufficiently strong to oxidize, to a considerable depth, the iron crucible in which it was placed, without its having undergone any alteration, except that of having acquired a greater degree of intensity in its colour. Its transparency was not at all diminished. I think, therefore, there is not the smallest reason to allow any probability to the opinion that it ought to be considered as a kind of glass.
+
+Of all substances hitherto known, that with which it seems to have the greatest analogy, is the peridot, (the chrysolite of Werner,) to which some mineralogists have referred it. The result of Mr. Howard's analysis of it, is nearly the same as that of the analysis of the peridot, made by Mr. Klaproth.
+
+The hardness and infusibility of this substance are nearly the same as those of the peridot; but it seems to have a rather less degree of specific gravity: that of two very perfect crystals of peridot, I found to be from 3340 to 3375. The crystalline forms of the substance here described, if ever we should be able to determine them, would clear up our doubts respecting the analogy between the two substances. If we consider the compact part of the specimen now treated of, particularly the strong connexion that appears to exist between the iron and the transparent substance, and the great resistance we experience when we attempt to separate them, we cannot help being surprised, that almost all the specimens of this mass of metallic iron that have been brought to Europe, are in the cellular state already described, owing apparently to the total, or almost total, destruction of the transparent substance. But, besides the fragility of this substance, the specimen in question helps very much to explain the above circumstance, inasmuch as many of the nodules of the transparent substance belonging to it, are in a state of real decomposition. In that state, they are changed into a white opaque substance, which, upon being lightly pressed or squeezed between the fingers, crumbles into a gritty dry powder. This decomposition may be observed to have taken place in various degrees: in many of the nodules, the substance is merely become friable, without being much altered in its appearance; whereas, some of those which are in a state of complete decomposition, are of an ochreous reddish yellow colour; it is, however, easy to distinguish that this colour does not belong to them, but is owing only to the oxidizement of the adjacent particles of iron.
+
+From the above observations, it will not be difficult to conceive the possibility of the total, or nearly total, destruction of the transparent substance; and also, the appearance the pieces of iron must naturally present, when deprived of it. I cannot help observing likewise, that there appears to exist a very interesting analogy, between these transparent nodules and the globules I described as making part of the stones said to have fallen on the earth. This analogy, though not a very strong one, may lead us to suppose that the two substances are similar in their nature, but that the globules are less pure, and contain a greater quantity of iron.
+
+The native iron from Bohemia is a compact mass, similar to the compact part of the large specimen of iron from Siberia, which has just been described: like that, also, it contains a number of globular bodies or nodules; but they are not in such great proportion as in the Siberian iron. They are besides perfectly opaque, and very much resemble the most compact of the globules belonging to the stones said to have fallen on the earth.
+
+---
+
+Examination of the Iron from South America.
+
+I have already observed, that my experiments coincided with those of Mr. Proust. He obtained 50 grains of sulphate of nickel, from 100 of this mass. The process I have so frequently mentioned, yielded me 80 grains of oxide of iron from 62 of the metal; which indicates about 7 1/2 of nickel, or about 10 per cent.
+
+Examination of the Siberian Iron.
+
+100 grains of this iron, gave 127 of oxide of iron: hence, it should contain about 17 per cent. of nickel.
+
+The yellow substance belonging to this iron, was analyzed in the same way as the globular bodies, and the earthy parts, of the stone from Benares.
+
+The proportions, resulting from the analysis of 50 grains, and from some previous experiments on other particles, were,
+
+Silica|27  
+Magnesia|13 1/2  
+Oxide of iron|8 1/2  
+Oxide of nickel|1/2  
+|49 1/2.
+
+Examination of the Bohemian Iron.
+
+26 1/2 grains of this metal, left about 1 1/2 grain of earthy matter, insoluble in nitric acid; and, by ammonia, afforded 30 grains of oxide of iron, inducing an estimation of nearly 5 of nickel.
+
+Examination of Iron from Senegal, brought by General O'Hara, and given to me by Mr. Hatchett.
+
+In this experiment, 199 grains of oxide were produced from 145 grains of metal: hence, there may be an estimation of 8 grains in 145, or between 5 and 6 per cent. of nickel.
+
+It will appear, from a collected view of the preceding pages and authorities, that a number of stones asserted to have fallen under similar circumstances, have precisely the same characters. The stones from Benares, the stone from Yorkshire, that from Sienna, and a fragment of one from Bohemia, have a relation to each other not to be questioned.
+
+1st. They have all pyrites of a peculiar character.
+
+2dly. They have all a coating of black oxide of iron.
+
+3dly. They all contain an alloy of iron and nickel. And,
+
+4thly. The earths which serve to them as a sort of connecting medium, correspond in their nature, and nearly in their proportions.
+
+Moreover, in the stones from Benares, pyrites and globular bodies are exceedingly distinct. In the others they are more or less definite; and that from Sienna had one of its globules transparent. Meteors, or lightning, attended the descent of the stones at Benares, and at Sienna. Such coincidence of circumstances, and the unquestionable authorities I have adduced, must, I imagine, remove all doubt as to the descent of these stony substances; for, to disbelieve on the mere ground of incomprehensibility, would be to dispute most of the works of nature.
+
+Respecting the kinds of iron called native, they all contain nickel. The mass in South America is hollow, has concavities, and appears to have been in a soft or welding state, because it has received various impressions.
+
+The Siberian iron has globular concavities, in part filled with a transparent substance, which, the proportional quantity of oxide of iron excepted, has nearly the composition of the globules in the stone from Benares.
+
+The iron from Bohemia adheres to earthy matter studded with globular bodies.
+
+The Senegal iron had been completely mutilated before it came under my examination.
+
+From these facts, I shall draw no conclusion, but submit the following queries.
+
+1st. Have not all fallen stones, and what are called native irons, the same origin?
+
+2dly. Are all, or any, the produce or the bodies of meteors?
+
+And, lastly, Might not the stone from Yorkshire have formed a meteor in regions too elevated to be discovered?
+
+Specimens of the Benares and Yorkshire stones have been deposited, by the President, in the British Museum.
