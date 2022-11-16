@@ -16,11 +16,11 @@ In very early ages, it was believed, that stones did in reality fall, as it was 
 
 Mr. King, the learned author of _Remarks concerning Stones said to have fallen from the Clouds, in these Days, and in ancient Times_, has adduced quotations of the greatest antiquity, descriptive of the descent of fallen stones; and, could it be thought necessary to add antique testimonies to those instanced by so profound an antiquarian, the quotations of Mons. Falconet, in his papers upon Bætilia, inserted in the _Histoire des Inscriptions et Belles-Lettres_*; the quotations in Zahn's _Specula Physico-mathematica Historiana_*; the _Fisica Sotterranea_ of Giacinto Gemma; the works of Pliny, and others, might be referred to.
 
-*) Tom. 6. P. 519. et Tom. 23. P. 228.
+*) Tom. 6. p. 519. and Tom. 23. p. 228.
 
 *) Fol. 1696. Vol. 1. p. 385. where a long enumeration of stones fallen from the sky is given.
 
-Dr. Chladni, in his _Observations on the Mass of Iron found in Siberia, and on other Masses of the like Kind_, as well as in his _Observations on Fire-balls and bard Bodies fallen from the Atmosphere_, has collected almost every modern instance of phenomena of this nature.
+Dr. Chladni, in his _Observations on the Mass of Iron found in Siberia, and on other Masses of the like Kind_, as well as in his _Observations on Fire-balls and hard Bodies fallen from the Atmosphere_, has collected almost every modern instance of phenomena of this nature.
 
 Mr. Southey relates an account, juridically authenticated, of a stone weighing 10 lbs. which was heard to fall in Portugal, Feb. 19, 1796, and was taken, still warm, from the ground.*
 
